@@ -1,30 +1,24 @@
-𓀀 𓀁 𓀂 𓀃 𓀄 𓀅 𓀆 𓀇 𓀈 𓀉 𓀊 𓀋 𓀌 𓀍 𓀎 𓀏 𓀐 𓀑 𓀒 𓀓 𓀔 𓀕 𓀖 𓀗 𓀘 𓀙 𓀚 𓀛 𓀜 𓀝 𓀞 𓀟 𓀠 𓀡 𓀢 𓀣 𓀤 𓀥 𓀦 𓀧 𓀨 𓀩 𓀪 𓀫 𓀬 𓀭 𓀮 𓀯 𓀰 𓀱 𓀲 𓀳 𓀴 𓀵 𓀶 𓀷 𓀸 𓀹 𓀺 𓀻 𓀼 𓀽 𓀾 𓀿 𓁀 𓁁 𓁂 𓁃 𓁄 𓁅 𓁆 𓁇 𓁈 𓁉 𓁊 𓁋 𓁌 𓁍 𓁎 𓁏 𓁐 𓁑 𓁒 𓁓 𓁔 𓁕 𓁖 𓁗 𓁘 𓁙 𓁚 𓁛 𓁜 𓁝 𓁞 𓁟 𓁠 𓁡 𓁢 𓁣 𓁤 𓁥 𓁦 𓁧 𓁨 𓁩 𓁪 𓁫 𓁬 𓁭 𓁮 𓁯 𓁰 𓁱 𓁲 𓁳 𓁴 𓁵 𓁶 𓁷 𓁸 𓁹 𓁺 𓁻 𓁼 𓁽 𓁾
-𓂝 𓂞 𓂟 𓂠 𓂡 𓂢 𓂣 𓂤 𓂥 𓂦 𓂧 𓂨 𓂩 𓂪 𓂫 𓂬 𓂭 𓂮 𓂯 𓂰 𓂱 𓂲 𓂳 𓂴 𓂵 𓂶 𓂷 𓂸 𓂹 𓂺 𓂻 𓂼 𓂽 𓂾 𓂿 𓃀 𓃁 𓃂 𓃃 𓃄 𓃅 𓃆 𓃇 𓃈 𓃉 𓃊 𓃋 𓃌 𓃍 𓃎 𓃏 𓃐 𓃑 𓃒 𓃓 𓃔 𓃕 𓃖 𓃗 𓃘 𓃙 𓃚 𓃛 𓃜 𓃝 𓃞 𓃟 𓃠 𓃡 𓃢 𓃣 𓃤 𓃥 𓃦 𓃧 𓃨 𓃩 𓃪 𓃫 𓃬 𓃭 𓃮
-𓀀 𓀁 𓀂 𓀃 𓀄 𓀅 𓀆 𓀇 𓀈 𓀉 𓀊 𓀋 𓀌 𓀍 𓀎 𓀏 𓀐 𓀑 𓀒 𓀓 𓀔 𓀕 𓀖 𓀗 𓀘 𓀙 𓀚 𓀛 𓀜 𓀝 𓀞 𓀟 𓀠 𓀡 𓀢 𓀣 𓀤 𓀥 𓀦 𓀧 𓀨 𓀩 𓀪 𓀫 𓀬 𓀭 𓀮 𓀯 𓀰 𓀱 𓀲 𓀳 𓀴 𓀵 𓀶 𓀷 𓀸 𓀹 𓀺 𓀻 𓀼 𓀽 𓀾 𓀿 𓁀 𓁁 𓁂 𓁃 𓁄 𓁅 𓁆 𓁇 𓁈 𓁉 𓁊 𓁋 𓁌 𓁍 𓁎 𓁏 𓁐 𓁑 𓁒 𓁓 𓁔 𓁕 𓁖 𓁗 𓁘 𓁙 𓁚 𓁛 𓁜 𓁝 𓁞 𓁟 𓁠 𓁡 𓁢 𓁣 𓁤 𓁥 𓁦 𓁧 𓁨 𓁩 𓁪 𓁫 𓁬 𓁭 𓁮 𓁯 𓁰 𓁱 𓁲 𓁳 𓁴 𓁵 𓁶 𓁷 𓁸 𓁹 𓁺 𓁻 𓁼 𓁽 𓁾
-𓃯 𓃰 𓃱 𓃲 𓃳 𓃴 𓃵 𓃶 𓃷 𓃸 𓃹 𓃺 𓃻 𓃼 𓃽 𓃾 𓃿 𓄀 𓄁 𓄂 𓄃 𓄄 𓄅 𓄆 𓄇 𓄈 𓄉 𓄊 𓄋 𓄌 𓄍 𓄎 𓄏 𓄐 𓄑 𓄒 𓄓 𓄔 𓄕 𓄖 𓄗 𓄘 𓄙 𓄚 𓄛 𓄜 𓄝 𓄞 𓄟 𓄠 𓄡 𓄢 𓄣 𓄤 𓄥 𓄦 𓄧 𓄨 𓄩
 
-
-
-DEA	Dirham dos Emirados Árabes Unidos	Emirados Árabes Unidos
-AFN	Afegão Afegão	Afeganistão
-TODOS	Lek Albanês	Albânia
-AMD	Dram armênio	Armênia
-ANG	Florim das Antilhas Holandesas	Antilhas Holandesas
-AOA	Kwanza angolano	Angola
-ARS	Peso argentino	Argentina
-Dólar australiano	Dólar australiano	Austrália
-AWG	Florim de Aruba	Aruba
-AZN	Manat do Azerbaijão	Azerbaijão
-BUM!	Bósnia e Herzegovina Marcos	Bósnia e Herzegovina
-BBD	Dólar de Barbados	Barbados
-BDT	Taka de Bangladesh	Bangladesh
-BGN	Lev búlgaro	Bulgária
-BHD	Dinar do Bahrein	Bahrein
-BIF	Franco do Burundi	Burundi
-DMO	Dólar das Bermudas	Bermudas
-BND	Dólar de Brunei	Brunei
-PRUMO	Boliviano Boliviano	Bolívia
-BRL	Real Brasileiro	Brasil
+DEA	Dirham dos Emirados Árabes Unidos	Emirados Árabes Unidos  //////// 
+AFN	Afegão Afegão	Afeganistão   //////// 
+TODOS	Lek Albanês	Albânia   //////// 
+AMD	Dram armênio	Armênia    //////// 
+ANG	Florim das Antilhas Holandesas	Antilhas Holandesas   //////// 
+AOA	Kwanza angolano	Angola    //////// 
+ARS	Peso argentino	Argentina    //////// 
+Dólar australiano	Dólar australiano	Austrália    //////// 
+AWG	Florim de Aruba	Aruba   ////////  
+AZN	Manat do Azerbaijão	Azerbaijão     //////// 
+BUM!	Bósnia e Herzegovina Marcos	Bósnia e Herzegovina   //////// 
+BBD	Dólar de Barbados	Barbados     //////// 
+BDT	Taka de Bangladesh	Bangladesh    //////// 
+BGN	Lev búlgaro	Bulgária    //////// 
+BHD	Dinar do Bahrein	Bahrein     //////// 
+BIF	Franco do Burundi	Burundi     //////// 
+DMO	Dólar das Bermudas	Bermudas    //////// 
+BND	Dólar de Brunei	Brunei     ////////  
+PRUMO	Boliviano Boliviano	Bolívia    //////// 
+BRL	Real Brasileiro	Brasil   
 BSD	Dólar das Bahamas	Bahamas
 BTN	Ngultrum butanês	Butão
 BWP	Botsuana Pula	Botsuana
@@ -166,6 +160,3 @@ SIM	Rial iemenita	Iémen
 ZAR	Rand sul-africano	África do Sul
 ZMW	Kwacha zambiano	Zâmbia
 ZWL	Dólar Zimbabuense	Zimbábue
-
-
-
